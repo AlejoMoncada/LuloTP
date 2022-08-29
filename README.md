@@ -1,5 +1,9 @@
 # LuloTP
 Este proyecto está desarrollado en un Jupyter Notebook y requiere la instalación bien sea de Anaconda o el uso de Google Colab.
+
+Para clonar el repositorio usar el siguiente comando
+git clone https://github.com/AlejoMoncada/LuloTP.git
+
 Se requiere el uso de algunas librerías que regularmeente no están instaladas. 
 
 Estas librerías son Glob, Pandas-Profiling deben ser instaladas. Normalmente anaconda incluye Glob.
